@@ -1,4 +1,4 @@
-coveralls-maven-plugin
+coveralls-maven-plugin (forked from trautonen/coveralls-maven-plugin)
 ======================
 
 [![Build Status](http://img.shields.io/travis/trautonen/coveralls-maven-plugin/master.svg?style=flat-square)](https://travis-ci.org/trautonen/coveralls-maven-plugin)
@@ -7,6 +7,8 @@ coveralls-maven-plugin
 
 Maven plugin for submitting Java code coverage reports to [Coveralls](https://coveralls.io/) web
 service.
+
+Have any security issue related to this project? Report that at:  https://hackerone.com/central-security-project/reports/new
 
 ### Requirements
 
